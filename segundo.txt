@@ -1,1 +1,1 @@
-def adc - fun()
+Cambios aquí
