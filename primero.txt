@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 Hola mundo!!!
-=======
 Adios mundo!!!
->>>>>>> Stashed changes
